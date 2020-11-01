@@ -1,1 +1,10 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 861.3 1057"><defs><style>.cls-1{fill:#fff;}</style></defs><title>Large Loki Logo [White]</title><polygon class="cls-1" points="379.39 772.74 0 393.35 393.35 0 498.16 104.82 209.63 393.35 484.21 667.92 379.39 772.74"/><polygon class="cls-1" points="467.95 1057 363.14 952.18 651.66 663.65 377.09 389.08 481.9 284.26 861.3 663.65 467.95 1057"/></svg>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 861.3 1057">
+    <defs>
+        <style>.cls-1{fill:#fff;}</style>
+    </defs>
+    <title>Large Loki Logo [White]</title>
+    <polygon class="cls-1"
+             points="379.39 772.74 0 393.35 393.35 0 498.16 104.82 209.63 393.35 484.21 667.92 379.39 772.74"/>
+    <polygon class="cls-1"
+             points="467.95 1057 363.14 952.18 651.66 663.65 377.09 389.08 481.9 284.26 861.3 663.65 467.95 1057"/>
+</svg>
